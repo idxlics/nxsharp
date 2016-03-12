@@ -120,6 +120,8 @@
   <data name="textBox1.Text" xml:space="preserve">
     <value>njit8021xclient-sharp
 兼容iNode CH V5.20-0407
+适用于中山大学东校区
+https://github.com/idxlics/nxsharp
 
 注意：
 本工具依赖微软 .NET framework3.5 运行库，请从微软官方网站下载安装。

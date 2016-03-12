@@ -40,7 +40,7 @@ namespace gui
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("iexplore.exe", "https://github.com/bitdust/nxsharp/releases");
+            System.Diagnostics.Process.Start("https://github.com/idxlics/nxsharp/releases");
         }
 
         private void button3_Click(object sender, EventArgs e)
