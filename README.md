@@ -1,4 +1,12 @@
 #NXSharp
+NXSharp H3C/iNode Client for SYSU East Campus
+fork from
+---
+https://github.com/bitdust/nxsharp
+
+#Original Description
+NXSharp
+---
 即 njit8021xclient-sharp  
 认证算法与我的Linux分支[njit8021xclient](https://github.com/bitdust/njit8021xclient)同步
 fork from
