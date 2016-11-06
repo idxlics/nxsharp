@@ -1,5 +1,7 @@
 #NXSharp
-NXSharp H3C/iNode Client for SYSU East Campus
+NXSharp H3C/iNode Client for SYSU East Campus  
+20161106补充：  
+最近部分楼栋修改了认证方式，改为原版的认证方式。如果此版不能使用，请[下载原版](https://github.com/bitdust/nxsharp/releases)。
 fork from
 ---
 https://github.com/bitdust/nxsharp
